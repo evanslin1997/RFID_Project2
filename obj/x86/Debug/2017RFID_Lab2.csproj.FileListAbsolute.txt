@@ -1,0 +1,18 @@
+C:\Users\ESL-Liang\Desktop\2017 RFID\作業二\V2.1\2017RFID_Lab2\obj\x86\Debug\Test1.exe
+C:\Users\ESL-Liang\Desktop\2017 RFID\作業二\V2.1\2017RFID_Lab2\obj\x86\Debug\Test1.pdb
+C:\Users\ESL-Liang\Desktop\作業二\V2.2\2017RFID_Lab2\obj\x86\Debug\Test1.exe
+C:\Users\ESL-Liang\Desktop\作業二\V2.2\2017RFID_Lab2\obj\x86\Debug\Test1.pdb
+C:\Users\ESL-Liang\Desktop\作業二\V2.2\2017RFID_Lab2\bin\Debug\Test1.exe
+C:\Users\ESL-Liang\Desktop\作業二\V2.2\2017RFID_Lab2\bin\Debug\Test1.pdb
+C:\Users\ESL-Liang\Desktop\作業二\V2.2\2017RFID_Lab2\obj\x86\Debug\2017RFID_Lab2.csprojResolveAssemblyReference.cache
+C:\Users\ESL-Liang\Desktop\作業二\V2.2\2017RFID_Lab2\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\ESL-Liang\Desktop\作業二\V2.2\2017RFID_Lab2\obj\x86\Debug\Test1.Properties.Resources.resources
+C:\Users\ESL-Liang\Desktop\作業二\V2.2\2017RFID_Lab2\obj\x86\Debug\2017RFID_Lab2.csproj.GenerateResource.Cache
+C:\Users\ESL-Liang\Desktop\作業二\V2.4\2017RFID_Lab2\obj\x86\Debug\Test1.exe
+C:\Users\ESL-Liang\Desktop\作業二\V2.4\2017RFID_Lab2\obj\x86\Debug\Test1.pdb
+C:\Users\ESL-Liang\Desktop\作業二\V2.4\2017RFID_Lab2\bin\Debug\Test1.exe
+C:\Users\ESL-Liang\Desktop\作業二\V2.4\2017RFID_Lab2\bin\Debug\Test1.pdb
+C:\Users\ESL-Liang\Desktop\作業二\V2.4\2017RFID_Lab2\obj\x86\Debug\2017RFID_Lab2.csprojResolveAssemblyReference.cache
+C:\Users\ESL-Liang\Desktop\作業二\V2.4\2017RFID_Lab2\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\ESL-Liang\Desktop\作業二\V2.4\2017RFID_Lab2\obj\x86\Debug\Test1.Properties.Resources.resources
+C:\Users\ESL-Liang\Desktop\作業二\V2.4\2017RFID_Lab2\obj\x86\Debug\2017RFID_Lab2.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+J:\RFID\專\Lab2\範例程式\V2.4\2019RFID_Lab4\bin\Debug\Test1.exe
+J:\RFID\專\Lab2\範例程式\V2.4\2019RFID_Lab4\bin\Debug\Test1.pdb
+J:\RFID\專\Lab2\範例程式\V2.4\2019RFID_Lab4\obj\x86\Debug\2019RFID_Lab4.csprojAssemblyReference.cache
+J:\RFID\專\Lab2\範例程式\V2.4\2019RFID_Lab4\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+J:\RFID\專\Lab2\範例程式\V2.4\2019RFID_Lab4\obj\x86\Debug\Test1.Properties.Resources.resources
+J:\RFID\專\Lab2\範例程式\V2.4\2019RFID_Lab4\obj\x86\Debug\2019RFID_Lab4.csproj.GenerateResource.cache
+J:\RFID\專\Lab2\範例程式\V2.4\2019RFID_Lab4\obj\x86\Debug\Test1.exe
+J:\RFID\專\Lab2\範例程式\V2.4\2019RFID_Lab4\obj\x86\Debug\Test1.pdb

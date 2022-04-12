@@ -1,0 +1,8 @@
+C:\Users\ESL-Liang\Desktop\2017 RFID\V6\WindowsFormsApplication6\obj\x86\Debug\Test1.exe
+C:\Users\ESL-Liang\Desktop\2017 RFID\V6\WindowsFormsApplication6\obj\x86\Debug\Test1.pdb
+C:\Users\ESL-Liang\Desktop\2017 RFID\V6\2017RFID_Lab1\obj\x86\Debug\Test1.exe
+C:\Users\ESL-Liang\Desktop\2017 RFID\V6\2017RFID_Lab1\obj\x86\Debug\Test1.pdb
+C:\Users\ESL-Liang\Desktop\2017 RFID\Lab1\2017RFID_Lab1\obj\x86\Debug\Test1.exe
+C:\Users\ESL-Liang\Desktop\2017 RFID\Lab1\2017RFID_Lab1\obj\x86\Debug\Test1.pdb
+C:\Users\ESL-Liang\Desktop\2017 RFID\作業二\V2.1\2017RFID_Lab2\obj\x86\Debug\Test1.exe
+C:\Users\ESL-Liang\Desktop\2017 RFID\作業二\V2.1\2017RFID_Lab2\obj\x86\Debug\Test1.pdb

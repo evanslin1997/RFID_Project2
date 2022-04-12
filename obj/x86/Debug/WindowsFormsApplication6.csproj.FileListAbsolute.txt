@@ -1,0 +1,92 @@
+D:\TEMP\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TEMP\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+D:\TEMP\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\TEMP\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TEMP\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\TEMP\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\TEMP\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\TEMP\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+D:\TEMP\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+D:\SYIS_RFID\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+D:\SYIS_RFID\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+D:\SYIS_RFID\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\SYIS_RFID\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\SYIS_RFID\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SYIS_RFID\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+D:\SYIS_RFID\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\Documents and Settings\Bogi\桌面\WindowsFormsApplication\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+D:\Documents and Settings\Bogi\桌面\WindowsFormsApplication\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+D:\Documents and Settings\Bogi\桌面\WindowsFormsApplication\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\Documents and Settings\Bogi\桌面\WindowsFormsApplication\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\Documents and Settings\Bogi\桌面\WindowsFormsApplication\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Bogi\桌面\WindowsFormsApplication\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+D:\Documents and Settings\Bogi\桌面\WindowsFormsApplication\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\Documents and Settings\Bogi\桌面\WindowsFormsApplication\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\ESL-Liang\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+C:\Users\ESL-Liang\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+C:\Users\ESL-Liang\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\ESL-Liang\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\ESL-Liang\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\ESL-Liang\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\ESL-Liang\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\ESL-Liang\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\ESL-Liang\Desktop\V1\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+C:\Users\ESL-Liang\Desktop\V1\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+C:\Users\ESL-Liang\Desktop\V1\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\ESL-Liang\Desktop\V1\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\ESL-Liang\Desktop\V1\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\ESL-Liang\Desktop\V1\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\ESL-Liang\Desktop\V1\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\ESL-Liang\Desktop\V1\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\ESL-Liang\Desktop\V2\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+C:\Users\ESL-Liang\Desktop\V2\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+C:\Users\ESL-Liang\Desktop\V2\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\ESL-Liang\Desktop\V2\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\ESL-Liang\Desktop\V2\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\ESL-Liang\Desktop\V2\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\ESL-Liang\Desktop\V2\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\ESL-Liang\Desktop\V2\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\ESL-Liang\Desktop\V3\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+C:\Users\ESL-Liang\Desktop\V3\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+C:\Users\ESL-Liang\Desktop\V3\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\ESL-Liang\Desktop\V3\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\ESL-Liang\Desktop\V3\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\ESL-Liang\Desktop\V3\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\ESL-Liang\Desktop\V3\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\ESL-Liang\Desktop\V3\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\ESL-Liang\Desktop\V4\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+C:\Users\ESL-Liang\Desktop\V4\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+C:\Users\ESL-Liang\Desktop\V4\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\ESL-Liang\Desktop\V4\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\ESL-Liang\Desktop\V4\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\ESL-Liang\Desktop\V4\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\ESL-Liang\Desktop\V4\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\ESL-Liang\Desktop\V4\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\ESL-Liang\Desktop\V5\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\ESL-Liang\Desktop\V5\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\ESL-Liang\Desktop\V5\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\ESL-Liang\Desktop\V5\WindowsFormsApplication6\bin\Debug\Test1.exe
+C:\Users\ESL-Liang\Desktop\V5\WindowsFormsApplication6\bin\Debug\Test1.pdb
+C:\Users\ESL-Liang\Desktop\V5\WindowsFormsApplication6\obj\x86\Debug\Test1.Properties.Resources.resources
+C:\Users\ESL-Liang\Desktop\V5\WindowsFormsApplication6\obj\x86\Debug\Test1.exe
+C:\Users\ESL-Liang\Desktop\V5\WindowsFormsApplication6\obj\x86\Debug\Test1.pdb
+C:\Users\ESL-Liang\Desktop\V6\WindowsFormsApplication6\obj\x86\Debug\Test1.exe
+C:\Users\ESL-Liang\Desktop\V6\WindowsFormsApplication6\obj\x86\Debug\Test1.pdb
+C:\Users\ESL-Liang\Desktop\V6\WindowsFormsApplication6\bin\Debug\Test1.exe
+C:\Users\ESL-Liang\Desktop\V6\WindowsFormsApplication6\bin\Debug\Test1.pdb
+C:\Users\ESL-Liang\Desktop\V6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\ESL-Liang\Desktop\V6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\ESL-Liang\Desktop\V6\WindowsFormsApplication6\obj\x86\Debug\Test1.Properties.Resources.resources
+C:\Users\ESL-Liang\Desktop\V6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\ESL-Liang\Desktop\2017 RFID\V6\WindowsFormsApplication6\obj\x86\Debug\Test1.exe
+C:\Users\ESL-Liang\Desktop\2017 RFID\V6\WindowsFormsApplication6\obj\x86\Debug\Test1.pdb
